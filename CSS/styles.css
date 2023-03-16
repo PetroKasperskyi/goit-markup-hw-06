@@ -712,6 +712,9 @@ body {
   outline: none;
   border-color: #4d5ae5;
 }
+.modal-form-check {
+  appearance: none;
+}
 .modal-form-submit {
   align-self: center;
   font-weight: 500;
